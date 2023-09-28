@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "800147369362",
+    "project_id": "tiger-chat-e2bb7",
+    "storage_bucket": "tiger-chat-e2bb7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800147369362:android:99deeb090c332f9093a54b",
+        "android_client_info": {
+          "package_name": "com.professionalsoft.tiger_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "800147369362-p0pu71mlu62kdsdgvnr2kandjculnbn4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.professionalsoft.tiger_chat",
+            "certificate_hash": "7c4f0c262276eec0109990079367299f3cd88d2d"
+          }
+        },
+        {
+          "client_id": "800147369362-j0e6bavvdgl161h79eo64jmbnghkr8p9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBat-HLFE0OcoGQbvcEn3-mRvz8T9X9-Yk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "800147369362-j0e6bavvdgl161h79eo64jmbnghkr8p9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

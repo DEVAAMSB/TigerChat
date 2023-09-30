@@ -28,6 +28,7 @@
 ## 📝 About the App
 
 **“Tiger Chat”** <b>is a Simple, Decent & Feature Rich Chatting Application.</b></br>
+
  <b>Features👇 : </b>
 <ul>
 <li>Show only known users or contacts

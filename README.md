@@ -3,9 +3,15 @@
 <p align="center">
   <h1 align="center">Tiger Chat ⭐️</h1>
 
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+  
+![Dart](https://img.shields.io/badge/dart-100%25-brightgreen)
+
+![Flutter](https://img.shields.io/badge/Flutter-Cross%20Platform-blue)
+
+<br />
     <br />
-    <br />
-    <a href="">About Me</a>
+    <a href="https://professionalsoft.epizy.com">About Me</a>
     ·
     <a href="https://github.com/DEVAAMSB/TigerChat/issues">Report Bug</a>
     ·

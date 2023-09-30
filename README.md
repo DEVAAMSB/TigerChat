@@ -1,66 +1,7 @@
-# tiger_chat
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-
-# We Chat
+# Tiger Chat
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 ![Dart](https://img.shields.io/badge/dart-100%25-brightgreen)
 ![Flutter](https://img.shields.io/badge/Flutter-Cross%20Platform-blue)
-
-<b>Simple, Decent & Feature Rich Chatting Application.</b></br>
-
-<b>Check Youtube Course 👇<b>
-https://youtube.com/playlist?list=PL8kbUJtS6hyal7Uw7wTeYmv7yiNPH5kOq
-
-<b>Some ScreenShots(Actual App Even Looks Better 😃):</b></br><br>
-<kbd>
-<img src="https://github.com/HarshAndroid/we_chat/blob/master/screenshots/8.png" width=30% height=30%/>
-<img src="https://github.com/HarshAndroid/we_chat/blob/master/screenshots/2.png" width=30% height=30%/>
-<img src="https://github.com/HarshAndroid/we_chat/blob/master/screenshots/3.png" width=30% height=30%/>
-<img src="https://github.com/HarshAndroid/we_chat/blob/master/screenshots/4.png" width=30% height=30%/>
-<img src="https://github.com/HarshAndroid/we_chat/blob/master/screenshots/5.png" width=30% height=30%/>
-<img src="https://github.com/HarshAndroid/we_chat/blob/master/screenshots/6.png" width=30% height=30%/>
-<img src="https://github.com/HarshAndroid/we_chat/blob/master/screenshots/7.png" width=30% height=30%/>
-</kbd>
-<br>
-<br>
-  
- <b>Features👇 : </b>
-<ul>
-<li>Show only known users or contacts
-<li>Real-Time Messaging (With Firebase)
-<li>Google Sign-In (No account or mobile number needed)
-<li>Adding Users using Email Id
-<li>Simple User Profile (with Photo, About, Last-seen, Created-at)
-<li>Message Read Status
-<li>Message Delete & Edit Feature
-<li>Message Notification (Push Notification)
-<li>Decent UI with New Material Widgets
-<li>And Much More....
-</ul>
-  
-<b>Watch Full Playlist on Youtube:</b>
-  https://youtube.com/playlist?list=PL8kbUJtS6hyal7Uw7wTeYmv7yiNPH5kOq
-  <br>
-<!--  <b>Note:</b> This Project is Much More Improved (i.e. Contains New Features) & Optimized than Youtube Course Project. -->
-For Feedback or Suggestions Mail Me At rajpurohitharsh2020@gmail.com 🙂
-
-
-
 
 
 
@@ -75,8 +16,6 @@ For Feedback or Suggestions Mail Me At rajpurohitharsh2020@gmail.com 🙂
 <br />
 <p align="center">
   <h1 align="center">Tiger Chat ⭐️</h1>
-  <p align="center">
-    A digital diary that can help you in keeping track of your mood and productivity throughout the month. Mood tracker is a good way to see how you are mostly feeling. And it helped me a lot to realise how my general mood is and to improve it. Cause I was feeling down two years ago so now when I look at my mood board it looks much nicer.
     <br />
     <br />
     <a href="">About Me</a>
@@ -88,14 +27,27 @@ For Feedback or Suggestions Mail Me At rajpurohitharsh2020@gmail.com 🙂
 </p>
 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/hashirshoaeb?color=ffcc66&logo=twitter&logoColor=ffffff&style=for-the-badge)](https://twitter.com/DevAAMSB)
-[![GitHub license](https://img.shields.io/github/license/hashirshoaeb/star_book?style=for-the-badge)](https://github.com//TigerChat/blob/master/LICENSE)
+[![Twitter Follow](https://img.shields.io/twitter/follow/DevAAMSB?color=ffcc66&logo=twitter&logoColor=ffffff&style=for-the-badge)](https://twitter.com/DevAAMSB)
+[![GitHub license](https://img.shields.io/github/license/DEVAAMSB/TigerChat?style=for-the-badge)](https://github.com//TigerChat/blob/master/LICENSE)
 [![Flutter Version](https://img.shields.io/static/v1?label=Flutter&message=3.10.1&color=ffcc66&style=for-the-badge)](https://flutter.dev/docs/development/tools/sdk/releases)
 
 
 ## 📝 About the App
 
-**“Tiger Chat”** is a digital diary, and a mood tracking app. The user will be able to rate his mood for each day and write a short story for him, like how his day was. Color is given to each mood, let’s say, green for a happy mood, red for angry and yellow for a sad mood. The statistics of users will be visualized in a methodical structure. For this the app will form a graph, calendar, each date box is colored with the color of users' aura lets say green for positive spirits. StarBook will cooperate with users to boost their positive energy and train healthy thinking, correspondingly moving towards calmer and patient personality. StarBook will use positive psychology and cognitive behavioral therapy for you to better understand yourself, overcoming stress, anxiety, and depressions. The app is all in all focused to give personalized experience to every individual user, increasing their productivity, objectivity, and emotional health.
+**“Tiger Chat”** <b>is a Simple, Decent & Feature Rich Chatting Application.</b></br>
+ <b>Features👇 : </b>
+<ul>
+<li>Show only known users or contacts
+<li>Real-Time Messaging (With Firebase)
+<li>Google Sign-In (No account or mobile number needed)
+<li>Adding Users using Email Id
+<li>Simple User Profile (with Photo, About, Last-seen, Created-at)
+<li>Message Read Status
+<li>Message Delete & Edit Feature
+<li>Message Notification (Push Notification)
+<li>Decent UI with New Material Widgets
+<li>And Much More....
+</ul>
 
 
 ## Getting Started
